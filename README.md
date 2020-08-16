@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Ashutosh's Github Stats](https://github-readme-stats.vercel.app/api?username=agusprayogi02&show_icons=true&count_private=true)
+
 <!--
 **agusprayogi02/agusprayogi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
