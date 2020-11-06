@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-![Ashutosh's Github Stats](https://github-readme-stats.vercel.app/api?username=agusprayogi02&show_icons=true&count_private=true)
+[![Ashutosh's Github Stats](https://github-readme-stats.vercel.app/api?username=agusprayogi02&show_icons=true&count_private=true&theme=onedark)](https://github.com/agusprayogi02/agusprayogi02)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agusprayogi02&langs_count=10&layout=compact)](https://github.com/agusprayogi02/agusprayogi02)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--
 **agusprayogi02/agusprayogi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
