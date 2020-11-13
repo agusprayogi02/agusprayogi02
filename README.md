@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!-- [![Ashutosh's Github Stats](https://github-readme-stats.vercel.app/api?username=agusprayogi02&show_icons=true&count_private=true&theme=onedark)](https://github.com/agusprayogi02/agusprayogi02)--!>
+[![Ashutosh's Github Stats](https://github-readme-stats.vercel.app/api?username=agusprayogi02&show_icons=true&count_private=true&theme=onedark)](https://github.com/agusprayogi02/agusprayogi02)
 
-<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agusprayogi02&langs_count=10&layout=compact)](https://github.com/agusprayogi02/agusprayogi02)
---!>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agusprayogi02&langs_count=10&layout=compact)](https://github.com/agusprayogi02/agusprayogi02)
+
 <!--START_SECTION:waka-->
 ```text
 Week: 05 November, 2020 - 12 November, 2020
