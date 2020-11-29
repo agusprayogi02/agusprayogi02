@@ -1,4 +1,5 @@
 ### Hi there 👋, I'am Agus Prayogi
+<hr/>
 
 - 🌱 I’m currently learning **Flutter**
 - 👀 want to know more about me Look: [this](https://agusprayogi02.github.io)
