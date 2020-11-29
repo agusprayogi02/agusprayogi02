@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'am Agus Prayogi
+
+- 🌱 I’m currently learning **Flutter**
+- 👀 want to know more about me Look: [this](https://agusprayogi02.github.io)
+- 📫 How to reach me: [Agus Prayogi](mailto:agus21apy@gmail.com)
 
 [![Ashutosh's Github Stats](https://github-readme-stats.vercel.app/api?username=agusprayogi02&show_icons=true&count_private=true&theme=onedark)](https://github.com/agusprayogi02/agusprayogi02)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agusprayogi02&langs_count=10&layout=compact)](https://github.com/agusprayogi02/agusprayogi02)
 
 <!--START_SECTION:waka-->
 ```text
