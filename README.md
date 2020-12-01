@@ -1,7 +1,7 @@
 ### Hi there 👋, I'am Agus Prayogi
 <hr/>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** and **ReactJS**
 - 👀 want to know more about me Look: [this](https://agusprayogi02.github.io)
 - 📫 How to reach me: [Agus Prayogi](mailto:agus21apy@gmail.com)
 
