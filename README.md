@@ -1,5 +1,4 @@
 ## Hi there 👋, I'am Agus Prayogi
-<hr/>
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -11,13 +10,17 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:agus21apy@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Instagram-ff1744?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/agus.apy/)
 
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/agusprayogi02/agusprayogi02.github.io/928ed48931f7dec05c986cf729a3ac8f4870b484/src/assets/images/programmer.svg" />
+
 - 🌱 I’m currently learning [<b>Flutter</b>](https://flutter.dev/) and [<b>Golang</b>](https://golang.org/)
 - 👀 want to know more about me, Look: [this](https://agusprayogi02.github.io)
 - 📫 How to reach me: [Agus Prayogi](mailto:agus21apy@gmail.com)
 
-[![Agus Prayogi's Github Stats](https://github-readme-stats.vercel.app/api?username=agusprayogi02&show_icons=true&count_private=true&theme=onedark)](https://github.com/agusprayogi02/agusprayogi02)
 
 <p>
+<a href="https://github.com/onimur/handle-path-oz">
+    <img width="55%" align="right" alt="Agus Prayogi's github stats" src="https://github-readme-stats.vercel.app/api?username=agusprayogi02&show_icons=true&count_private=true&theme=onedark" />
+  </a>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
@@ -38,17 +41,16 @@ You can use the website to generate badges: https://shields.io/
 </p>
 
 <!--START_SECTION:waka-->
-```text
-Week: 18 June, 2021 - 24 June, 2021
+  ```text
+  Week: 18 June, 2021 - 24 June, 2021
 
-Other   17 hrs 18 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.79 % 
-Dart    11 hrs 30 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.11 % 
-Go      59 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.19 % 
-JSON    22 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.22 % 
-YAML    16 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.88 % 
-```
+  Other   17 hrs 18 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.79 % 
+  Dart    11 hrs 30 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.11 % 
+  Go      59 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.19 % 
+  JSON    22 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.22 % 
+  YAML    16 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.88 % 
+  ```
 <!--END_SECTION:waka-->
-
 <!-- 
 **agusprayogi02/agusprayogi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
