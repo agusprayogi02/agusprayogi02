@@ -9,6 +9,7 @@ You can use the website to generate badges: https://shields.io/
 [![Medium](https://img.shields.io/badge/-Medium-000?style=flat&labelColor=12100e&logo=medium&logoColor=white)](https://agus21apy.medium.com/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:agus21apy@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Instagram-ff1744?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/agus.apy/)
+<img alt="ViewCount" src="https://views.whatilearened.today/views/github/fadilahonespot/fadilahonespot.svg" />
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/agusprayogi02/agusprayogi02.github.io/928ed48931f7dec05c986cf729a3ac8f4870b484/src/assets/images/programmer.svg" />
 
@@ -16,11 +17,7 @@ You can use the website to generate badges: https://shields.io/
 - 👀 want to know more about me, Look: [this](https://agusprayogi02.github.io)
 - 📫 How to reach me: [Agus Prayogi](mailto:agus21apy@gmail.com)
 
-
 <p>
-<a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Agus Prayogi's github stats" src="https://github-readme-stats.vercel.app/api?username=agusprayogi02&show_icons=true&count_private=true&theme=onedark" />
-  </a>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
@@ -40,6 +37,11 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 </p>
 
+<hr>
+
+#### 🏊‍♂️  Weekly Development Breakdown :
+
+
 <!--START_SECTION:waka-->
   ```text
   Week: 18 June, 2021 - 24 June, 2021
@@ -51,6 +53,17 @@ You can use the website to generate badges: https://shields.io/
   YAML    16 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.88 % 
   ```
 <!--END_SECTION:waka-->
+
+<a href="https://github.com/agusprayogi02/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=agusprayogi02&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+
+<a href="https://github.com/agusprayogi02/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=agusprayogi02&layout=compact&theme=material-palenight" />
+</a>
+
+
 <!-- 
 **agusprayogi02/agusprayogi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
