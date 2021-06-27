@@ -77,10 +77,10 @@ YAML    11 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <!-- Your Operating System. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   --> 
+  <code><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Manjaro_logo_text.svg/777px-Manjaro_logo_text.svg.png"></code>
   <code><img width="20%" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/windows-10.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-  <code><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Manjaro_logo_text.svg/777px-Manjaro_logo_text.svg.png"></code>
- 
+  
 </p>
 
 
