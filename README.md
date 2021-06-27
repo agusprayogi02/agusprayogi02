@@ -136,26 +136,26 @@ HTML                     6 repos             ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-<p>
-  <img width="45%" align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=agusprayogi02&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+<!-- <p> -->
+<!--   <img width="45%" align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=agusprayogi02&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" /> -->
   
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusprayogi02&langs_count=10&layout=compact&theme=material-palenight" />
-</p>
+<!--   <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusprayogi02&langs_count=10&layout=compact&theme=material-palenight" /> -->
+<!-- </p> -->
 
-</br></br></br></br></br></br></br>
+<!-- </br></br></br></br></br></br></br> -->
 
 
-### Operating System that i've used :
-<p>
+<!-- ### Operating System that i've used : -->
+<!-- <p> -->
   <!-- Your Operating System. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   --> 
-  <code><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Manjaro_logo_text.svg/777px-Manjaro_logo_text.svg.png"></code>
-  <code><img width="20%" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/windows-10.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+<!--   <code><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Manjaro_logo_text.svg/777px-Manjaro_logo_text.svg.png"></code> -->
+<!--   <code><img width="20%" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/windows-10.svg"></code> -->
+<!--   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code> -->
   
-</p>
+<!-- </p> -->
 
 
 <!-- 
