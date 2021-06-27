@@ -11,7 +11,6 @@ You can use the website to generate badges: https://shields.io/
 [![Whatsapp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat&logo=whatsapp&logoColor=white)]( https://api.whatsapp.com/send?phone=6287857108779)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/agusprayogi)
 [![Instagram](https://img.shields.io/badge/-Instagram-ff1744?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/agus.apy/)
-[![Discord](https://img.shields.io/badge/-Instagram-9657D1?style=flat&logo=discord&logoColor=white)](@agus.apy#6177)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/yogi.apy.96/)
 <img alt="ViewCount" src="https://views.whatilearened.today/views/github/fadilahonespot/fadilahonespot.svg" />
 
