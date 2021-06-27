@@ -63,16 +63,16 @@ YAML    11 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <p>
-  <img width="50%" align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=agusprayogi02&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img width="45%" align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=agusprayogi02&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
   
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img width="42%" align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=agusprayogi02&layout=compact&theme=material-palenight" />
+  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusprayogi02&langs_count=10&layout=compact&theme=material-palenight" />
 </p>
 
-</br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br>
 
 
-## Operating System that i've used :
+### Operating System that i've used :
 <p>
   <!-- Your Operating System. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
