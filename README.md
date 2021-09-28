@@ -52,7 +52,7 @@ You can use the website to generate badges: https://shields.io/
 ### 🏊‍♂️  Weekly Development Breakdown :
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -134,7 +134,7 @@ HTML                     6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/agusprayogi02/agusprayogi02/master/charts/bar_graph.png) 
 
 
- Last Updated on 27/09/2021
+ Last Updated on 28/09/2021
 <!--END_SECTION:waka-->
 
 
