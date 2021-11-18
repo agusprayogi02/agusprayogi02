@@ -49,7 +49,6 @@ You can use the website to generate badges: https://shields.io/
 
 <hr>
 
-### 🏊‍♂️  Weekly Development Breakdown :
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
