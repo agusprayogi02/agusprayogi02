@@ -16,10 +16,10 @@ You can use the website to generate badges: https://shields.io/
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/agusprayogi02/agusprayogi02.github.io/928ed48931f7dec05c986cf729a3ac8f4870b484/src/assets/images/programmer.svg" />
 
-- 🌱 I’m currently learning [<b>Flutter</b>](https://flutter.dev/) and [<b>Golang</b>](https://golang.org/)
+- 🌱 I’m currently learning [<b>Flutter</b>](https://flutter.dev/) and [<b>Spring Boot</b>](https://spring.io/)
 - 👀 want to know more about me, Look: [this](https://agusprayogi02.github.io)
 - 📫 How to reach me: [Agus Prayogi](mailto:agus21apy@gmail.com)
-
+<!--
 ## Languages and Tools
 
 <p>
@@ -32,7 +32,7 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="6%" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/javascript.svg"></code>
-  <!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code> -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
@@ -48,14 +48,14 @@ You can use the website to generate badges: https://shields.io/
 </p>
 
 <hr>
-
+-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 
 <!-- <p> -->
-<!--   <img width="45%" align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=agusprayogi02&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" /> -->
+<img width="45%" align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=agusprayogi02&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" /> 
   
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 <!--   <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusprayogi02&langs_count=10&layout=compact&theme=material-palenight" /> -->
@@ -63,18 +63,18 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- </br></br></br></br></br></br></br> -->
 
-
-<!-- ### Operating System that i've used : -->
-<!-- <p> -->
-  <!-- Your Operating System. Be careful with the alignment. 
+<!--
+### Operating System that i've used :
+<p>
+  Your Operating System. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  --> 
-<!--   <code><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Manjaro_logo_text.svg/777px-Manjaro_logo_text.svg.png"></code> -->
-<!--   <code><img width="20%" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/windows-10.svg"></code> -->
-<!--   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code> -->
   
-<!-- </p> -->
-
+<code><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Manjaro_logo_text.svg/777px-Manjaro_logo_text.svg.png"></code> 
+<code><img width="20%" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/windows-10.svg"></code> 
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+  
+</p>
+-->
 
 <!-- 
 **agusprayogi02/agusprayogi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
