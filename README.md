@@ -9,7 +9,7 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agus-prayogi/)
 [![Medium](https://img.shields.io/badge/-Medium-000?style=flat&labelColor=12100e&logo=medium&logoColor=white)](https://agus21apy.medium.com/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:agus21apy@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat&logo=whatsapp&logoColor=white)]( https://api.whatsapp.com/send?phone=6287857108779)
+[![Whatsapp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=628817935154)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/agusprayogi)
 [![Instagram](https://img.shields.io/badge/-Instagram-ff1744?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/agus.apy/)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/yogi.apy.96/)
