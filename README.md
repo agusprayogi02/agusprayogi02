@@ -4,6 +4,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
+[![Gitlab](https://img.shields.io/badge/-Gitlab-fc6d26?style=flat&logo=Gitlab&logoColor=white)](https://gitlab.com/agusprayogi02)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/agusprayogi02)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agus-prayogi/)
 [![Medium](https://img.shields.io/badge/-Medium-000?style=flat&labelColor=12100e&logo=medium&logoColor=white)](https://agus21apy.medium.com/)
