@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/agusprayogi02/agusprayogi02.github.io/928ed48931f7dec05c986cf729a3ac8f4870b484/src/assets/images/programmer.svg" />
 
-- 🌱 I’m currently learning [<b>Flutter</b>](https://flutter.dev/) and [<b>Spring Boot</b>](https://spring.io/)
+- 🌱 I’m currently learning [<b>Flutter</b>](https://flutter.dev/) and [<b>.Net</b>](https://dotnet.microsoft.com/en-us/)
 - 👀 want to know more about me, Look: [this](https://agusprayogi02.github.io)
 - 📫 How to reach me: [Agus Prayogi](mailto:agus21apy@gmail.com)
 <!--
